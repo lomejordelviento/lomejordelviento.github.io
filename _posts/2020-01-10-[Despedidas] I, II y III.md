@@ -9,6 +9,7 @@ tags:
 
 Nunca me costó decir adiós, hasta nunca o hasta luego. Porque cada vez que marcho de un lugar, lo hago con destino a otro. Abandonamos lugares, pero no el mundo; nos despedimos de personas, pero nunca de nosotros mismos. Y el resto no importa.
 
+
 Tratar de abarcarlo todo es una insensatez; pero conformarnos con poco, un peligro.
 
 Siempre nos quedará el cálido recuerdo, cada vez más parcial y distorsionado. Hasta que llegue un día en el que una fotogafía, un perfume, el sonido de un nombre, ciertos colores y formas, traigan consigo una carga invisible capaz de hacernos recordar, en un segundo, cientos de horas.
