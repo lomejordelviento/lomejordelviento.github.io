@@ -25,7 +25,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:marfnaranjo@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/lomejordelviento"}
-  - {title: Instagram, icon: photo, url: "https://www.instagram.com/martafnaranjo"}
+  - {title: Instagram, icon: comment, url: "https://www.instagram.com/martafnaranjo"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
